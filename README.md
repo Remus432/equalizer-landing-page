@@ -6,7 +6,7 @@
 
 Today's challenge was building this lovely repsonsive landing page for the fictional brand "Equalizer".
 
-[Live Site](https://todo-app-pi-roan.vercel.app/)
+[Live Site](https://equalizer-landing-page-pearl.vercel.app/)
 
 ## Technologies Used
 
